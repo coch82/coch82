@@ -13,7 +13,7 @@
 - 🙋‍♂️ I'm currently working on a hobby project [mindi](https://mindi.live).
 - 🌱 I’m currently learning ***Flutter***❤️, ***Swift***.
 - 💬 Ask me about ***startup***, ***marketing***, ***founding***, ***growth***, ***social media***.
-- 📫 How to reach me: ...
+- 📫 How to reach me: [***linkedin***][linkedin] or [***mail***][email]
 
 
 <br />
