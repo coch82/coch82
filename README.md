@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m looking  job for  ***new journey***.
+- 🔭 I’m looking    ***new journey***.
 - 🙋‍♂️ I'm currently working on a hobby project [mindi](https://mindi.live).
 - 🌱 I’m currently learning ***Flutter***❤️, ***Swift***.
 - 💬 Ask me about ***startup***, ***marketing***, ***founding***, ***growth***, ***social media***.
